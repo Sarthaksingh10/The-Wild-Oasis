@@ -60,7 +60,7 @@ function UpdateProfileForm({ guest, children }) {
 
       <div className="flex justify-end items-center gap-6">
         <SubmitButton pendingText={"Updating..."}>
-          Update reservation
+          Update Profile
         </SubmitButton>
       </div>
     </form>
